@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋, I'm Le Van Hiep
+- 🌱 I’m currently learning Backend Development (C# & .NET)
 <!--
 **leh23211213/leh23211213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
